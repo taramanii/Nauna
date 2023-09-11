@@ -1,2 +1,2 @@
-# Nauna
+# Resume
 my resume
